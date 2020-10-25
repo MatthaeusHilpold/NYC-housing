@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Abandon all hope, ye who enter here.
 
-You can use the [editor on GitHub](https://github.com/MatthaeusHilpold/NYC-housing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If I had written a paper to accompany my research poster, it would be presented here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anyway, the idea of adding a QR code to the research poster and keeping it minimalistic was inspired by: 
+https://www.youtube.com/watch?v=1RwJbhkCA58
+and 
+https://www.youtube.com/watch?v=SYk29tnxASs&ab_channel=MikeMorrison
 
-### Markdown
+Further, the templates used for the poster are the following:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://osf.io/6ua4k/
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatthaeusHilpold/NYC-housing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Personally, I've always found research posters too packed - this way one can quickly gather the main insight from the poster and, if interested, further explore the topic at home.
