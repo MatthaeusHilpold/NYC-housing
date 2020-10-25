@@ -16,3 +16,5 @@ Further, the templates used for the poster are the following:
 [template](https://osf.io/6ua4k/)
 
 Personally, I've always found research posters too packed - this way one can quickly gather the main insight from the poster and, if interested, further explore the topic at home.
+
+Credits for the rat image on the poster goes to Jake Dunham of noun
