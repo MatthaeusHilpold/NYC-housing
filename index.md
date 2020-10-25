@@ -6,7 +6,7 @@ Anyway, the idea of adding a QR code to the research poster and keeping it minim
 
 [this](https://www.youtube.com/watch?v=1RwJbhkCA58)
 
-and 
+and also
 
 [this](https://www.youtube.com/watch?v=SYk29tnxASs&ab_channel=MikeMorrison)
 
