@@ -30,9 +30,16 @@ Personally, I've always found research posters too packed - this way one can qui
 Credits for the rat image on the poster goes to Jake Dunham of noun.
 
 Sources:
+
 OG thesis: I am not sure I can add it due to copyright/privacy reasons, but it's "Improving Housing Price Prediction through Image-based Submarket Segmentation" by H. M. T. König.
+
 [Source for human performance of 70k$](https://github.com/jsrpy/NYC-Property-Regression)
+
 [MAE better than STD](https://core.ac.uk/download/pdf/206095228.pdf)
+
 [Apply log transformation with caution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/)
+
 [Multicollinearity in linear regression](https://towardsdatascience.com/multi-collinearity-in-regression-fe7a2c1467ea)
+
 [Ridge regression ftw](https://www.researchgate.net/publication/332675369_Modelling_House_Price_Using_Ridge_Regression_and_Lasso_Regression)
+
