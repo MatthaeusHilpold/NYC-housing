@@ -1,5 +1,5 @@
 ---
-youtubeId: https://youtu.be/u5MmebIA8UI
+youtubeId: u5MmebIA8UI
 ---
 
 ## Abandon all hope, ye who enter here.
@@ -9,6 +9,8 @@ If I had written a paper to accompany my research poster, it would be presented 
 The presentation video can be seen here:
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+If that doesn't work, you can click on the [link to the video here](https://www.youtube.com/watch?v=u5MmebIA8UI&feature=youtu.be)
 
 Anyway, the idea of adding a QR code to the research poster and keeping it minimalistic was inspired by: 
 
